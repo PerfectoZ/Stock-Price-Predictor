@@ -20,6 +20,7 @@ pip install matplotlib
 pip install seaborn
 pip install jupyter-notebook
 pip install scikit-learn
+pip install xgboost
 ```
 
 ## Usage example
